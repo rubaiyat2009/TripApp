@@ -1,5 +1,5 @@
 # TripApp
-This is a trip app with Xamarin
+This is a trip app with Xamarin.
 To start, it is important to understand the requirements and features of the TripApp. 
 We will do this by quickly defining some of the high-level things this app will allow its users to do:
 
