@@ -22,7 +22,7 @@ There will be a single portable class library project and two platform-specific 
 
 TripApp: This is a portable class library project that will serve as the core layer of the solution architecture. This is the layer that will include all our business logic, data objects, Xamarin.Forms pages, and other non-platform-specific code. The code in this project is common and not specific to a platform, and can therefore, be shared across the platform projects.
 
-TripApp.iOS: This is the iOS platform-specific project containing all the code and assets required to build and deploy the iOS app from this solution. By default, it will have a reference to the TripLog core project.
+TripApp.iOS: This is the iOS platform-specific project containing all the code and assets required to build and deploy the iOS app from this solution. By default, it will have a reference to the TripApp core project.
 
 TripApp.Android: This is the Android platform-specific project containing all the code and assets required to build and deploy the Android app from this solution. By default, it will have a reference to the TripApp core project.
 
