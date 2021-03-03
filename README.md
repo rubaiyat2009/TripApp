@@ -11,6 +11,6 @@ Notes
 Rating
 Sign into the app
 
-#Creating the initial app
+# To Create the initial app
 To start off the new TripApp mobile app project, we will need to create the initial solution architecture. 
 We can also create the core shell of our app’s user interface by creating the initial screens based on the basic features we have just defined.
