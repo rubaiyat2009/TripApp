@@ -1,0 +1,15 @@
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\bin\Debug\netstandard2.0\TripApp.deps.json
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\bin\Debug\netstandard2.0\TripApp.dll
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\bin\Debug\netstandard2.0\ref\TripApp.dll
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\bin\Debug\netstandard2.0\TripApp.pdb
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\TripApp.csprojAssemblyReference.cache
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\NewEntryPage.xaml.g.cs
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\TripApp.AssemblyInfoInputs.cache
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\TripApp.AssemblyInfo.cs
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\TripApp.csproj.CoreCompileInputs.cache
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\TripApp.dll
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\ref\TripApp.dll
+C:\Users\MR Hasan\Desktop\TripApp\TripApp\obj\Debug\netstandard2.0\TripApp.pdb
